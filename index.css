@@ -1,0 +1,84 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background: rgb(26, 25, 25);
+  }
+  .hero {
+    text-align: center;
+  }
+  .hero h1 {
+    padding-top: 50px;
+    margin-bottom: 2%;
+    margin-top: 7%;
+    display: inline-block;
+    background: yellow;
+    font-size: 60px;
+    font-weight: bold;
+  }
+  .rps {
+    width: 80%;
+    margin: 5px auto;
+  }
+  .box{
+    display: inline-block;
+    width: 33%;
+    text-align: center;
+  }
+  .rps p {
+    font-size: 100px;
+    font-weight: bolder;
+    color: white;
+    display: inline;
+  }
+  h1,p:hover{
+    cursor: context-menu;
+  }
+  .icon {
+    width: 80%;
+    margin: 2% auto;
+  }
+  .icon .fa{
+    font-size: 125px;
+    color: yellow;
+    border: 5px solid red;
+    border-radius: 134px;
+    padding: 31px 31px;
+
+  }
+  #first {
+    padding: 31px 40px;
+  }
+
+  i:hover{
+    background-color: black;
+    cursor: pointer;
+  }
+
+  
+.conta {
+  position: absolute;
+  top: 0px;
+  min-height: 100vh;
+  width: 100vw;
+  display: grid;
+  place-content: center;
+  display: none;
+}
+
+.card {
+  display: flex;
+  padding: 5px 40px;
+  background: #000;
+  border: 3px solid white;
+  box-shadow: 0 0 20px 2px rgb(242, 0, 255);
+  border-radius: 20px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+
+h2{
+  color: white;
+  font-size: 40px;
+}
