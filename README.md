@@ -8,9 +8,13 @@ SHOWING BLOGS POSTED BY OTHER USERS -
 
 REGISTER PAGE - 
 
-![alt text](https://github.com/priyanshuyadav07804/Blog_web/assets/80442935/b9408b47-c9be-4d2d-ad5d-6da9eb4e9100)
+![alt text](https://github.com/priyanshuyadav07804/Blog_web/assets/80442935/b65e22ab-e4ad-40ad-a941-8dfee72f719c)
 
 LOGIN PAGE -
+
+![alt text](https://github.com/priyanshuyadav07804/Blog_web/assets/80442935/b9408b47-c9be-4d2d-ad5d-6da9eb4e9100)
+
+PROFILE PAGE -
 
 ![alt text](https://github.com/priyanshuyadav07804/Blog_web/assets/80442935/b4a4ce0b-f002-4495-961a-6457096023d4)
 
