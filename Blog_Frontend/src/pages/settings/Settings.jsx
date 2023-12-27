@@ -43,6 +43,7 @@ export default function Settings() {
         setFile(null);
         setError(false)
         dispatch(UPDATE_SUCCESS(res.data))
+        dispatch(LoadUserData())
 
       } else {
         const res = await axios.patch(
@@ -54,6 +55,7 @@ export default function Settings() {
           setError(false)
           // dispatch({ type: "UPDATE_SUCCESS", payload: res.data });
           dispatch(UPDATE_SUCCESS(res.data))
+          dispatch(LoadUserData())
           
       }
     } catch (err) {
